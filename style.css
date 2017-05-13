@@ -1,0 +1,52 @@
+#bodyDiv {
+ 
+    margin: 15px 120px 50px 120px;
+}
+
+div {
+    /*display: flex;
+    flex-direction: column;*/
+
+}
+
+h2 {
+    font-family: 'Lobster', 'cursive';
+}
+
+h4, h3 {
+    font-family: 'Open Sans Condensed', 'sans-serif';
+}
+
+h1 {
+    font-family: 'Oswald', 'sans-serif';
+}
+
+#chocoPizza {
+    width: 100%;
+}
+
+p {
+    font-family: 'Cormorant Garamond', 'serif';
+}
+
+li {
+    font-family: 'Coming Soon', 'cursive';
+}
+
+#listBox {
+    background-image: url(./images/list-bg.png);
+    background-repeat: no-repeat;
+}
+
+
+
+#Van {
+    font-family: 'Merriweather', 'serif';
+    font-size: 15px;
+}
+
+.lineSeparator {
+    height: 8px;
+    background: #717171;
+    /*border-bottom: 1px solid #313030;*/
+}
