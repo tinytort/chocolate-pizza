@@ -1,12 +1,22 @@
 #bodyDiv {
  
     margin: 15px 120px 50px 120px;
+    }
+
+#nav {
+    display: inline;
 }
 
-div {
-    /*display: flex;
-    flex-direction: column;*/
+#upTop {
+    display: inline;
+    text-align: left;
+}
 
+#icons {
+    display: inline;
+    float: right;
+    clear: both;
+    margin: 10px;
 }
 
 h2 {
@@ -48,5 +58,9 @@ li {
 .lineSeparator {
     height: 8px;
     background: #717171;
-    /*border-bottom: 1px solid #313030;*/
+    margin: 10px;
+}
+
+#bottomPage {
+    display: inline; 
 }
